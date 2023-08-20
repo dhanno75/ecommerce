@@ -7,7 +7,7 @@
 ## About The Project
 This is an ecommerce API built with NodeJs. It features authentication, full CRUD ability on products, order, cart and user.
 Documentation here:
-https://documenter.getpostman.com/view/11784799/UVJhDEyt
+https://documenter.getpostman.com/view/18850363/2s9Y5SXRZP
 
 
 
